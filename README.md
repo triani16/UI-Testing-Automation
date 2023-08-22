@@ -10,7 +10,6 @@
 ## How to run :
 
 - Clone Repository
-- 
 ```
 [https://github.com/triani16/UI-Testing-Automation.git]
 ```
